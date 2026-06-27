@@ -40,7 +40,7 @@ My current research focuses on semiconductor photonic devices, nonlinear optical
 ACS Photonics (in peer review, preprint here: [arXiv:2604.08487](https://arxiv.org/abs/2604.08487))
 
 **Instantaneous modes in dispersive laser cavities**  
-**K. Seegert**, M. Heuck, Y. Yu, and J. Mørk 
+**K. Seegert**, M. Heuck, Y. Yu, and J. Mørk  
 Physical Review A (in peer review, preprint here: [arXiv:2602.09814](https://arxiv.org/abs/2602.09814))
 
 **Self-pulsing dynamics in lasers with dispersive mirrors**  
