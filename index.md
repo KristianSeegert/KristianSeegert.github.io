@@ -35,17 +35,21 @@ My current research focuses on semiconductor photonic devices, nonlinear optical
 
 ## Selected Publications
 
+**Dynamical control of non-Hermitian coupling between sub-threshold nanolasers enables Q-switched pulse generation**
+**K. Seegert**, R. Gajardo, G. Huyet, F. Raineri, and G. Madiot
+ACS Photonics (in peer review, preprint here: [arXiv:2604.08487](https://arxiv.org/abs/2604.08487))
+
+**Instantaneous modes in dispersive laser cavities**
+**K. Seegert**, M. Heuck, Y. Yu, and J. Mørk 
+Physical Review A (in peer review, preprint here: [arXiv:2602.09814](https://arxiv.org/abs/2602.09814))
+
 **Self-pulsing dynamics in lasers with dispersive mirrors**  
 **K. Seegert**, M. Heuck, Y. Yu, and J. Mørk  
-*Physical Review A* **109**, 063512 (2024)
-
-**Dynamics and condensation of polaritons in an optical nanocavity coupled to two-dimensional materials**  
-M. V. Gurrieri, E. V. Denning, **K. Seegert**, P. T. Kristensen, and J. Mørk  
-*Physical Review B* **109**, 155432 (2024)
+Physical Review A **109**, 063512 (2024)
 
 **Nanostructured Semiconductor Lasers**  
 J. Mørk, M. Xiong, **K. Seegert**, et al.  
-*IEEE Journal of Selected Topics in Quantum Electronics* **31**, 2025
+IEEE Journal of Selected Topics in Quantum Electronics **31**, 1 (2025)
 
 A complete publication list is available on my Google Scholar profile.
 
